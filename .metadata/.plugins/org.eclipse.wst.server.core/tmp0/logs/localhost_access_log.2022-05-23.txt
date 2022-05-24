@@ -22,3 +22,12 @@
 127.0.0.1 - - [23/May/2022:22:08:21 -0300] "GET / HTTP/1.1" 404 763
 0:0:0:0:0:0:0:1 - - [23/May/2022:22:08:25 -0300] "GET /gerenciador/formNovaEmpresa.html HTTP/1.1" 200 263
 0:0:0:0:0:0:0:1 - - [23/May/2022:22:08:42 -0300] "GET /gerenciador/novaEmpresa?nome=Caelum HTTP/1.1" 200 66
+127.0.0.1 - - [23/May/2022:22:09:36 -0300] "GET / HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [23/May/2022:22:09:42 -0300] "GET /gerenciador/novaEmpresa?nome=Caelum HTTP/1.1" 200 66
+0:0:0:0:0:0:0:1 - - [23/May/2022:22:09:52 -0300] "GET /gerenciador/novaEmpresa HTTP/1.1" 200 64
+0:0:0:0:0:0:0:1 - - [23/May/2022:22:10:05 -0300] "GET /gerenciador/formNovaEmpresa.html HTTP/1.1" 200 277
+0:0:0:0:0:0:0:1 - - [23/May/2022:22:10:11 -0300] "POST /gerenciador/novaEmpresa HTTP/1.1" 200 66
+0:0:0:0:0:0:0:1 - - [23/May/2022:22:10:36 -0300] "POST /gerenciador/novaEmpresa HTTP/1.1" 200 66
+0:0:0:0:0:0:0:1 - - [23/May/2022:22:10:45 -0300] "POST /gerenciador/novaEmpresa HTTP/1.1" 200 65
+127.0.0.1 - - [23/May/2022:22:18:23 -0300] "GET / HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [23/May/2022:22:18:57 -0300] "GET /gerenciador/novaEmpresa?nome=CamargoCorrea HTTP/1.1" 200 73
