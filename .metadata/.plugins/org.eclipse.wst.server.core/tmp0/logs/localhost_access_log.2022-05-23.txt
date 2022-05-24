@@ -31,3 +31,7 @@
 0:0:0:0:0:0:0:1 - - [23/May/2022:22:10:45 -0300] "POST /gerenciador/novaEmpresa HTTP/1.1" 200 65
 127.0.0.1 - - [23/May/2022:22:18:23 -0300] "GET / HTTP/1.1" 404 763
 0:0:0:0:0:0:0:1 - - [23/May/2022:22:18:57 -0300] "GET /gerenciador/novaEmpresa?nome=CamargoCorrea HTTP/1.1" 200 73
+127.0.0.1 - - [23/May/2022:22:19:10 -0300] "GET / HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [23/May/2022:22:19:12 -0300] "GET /gerenciador/novaEmpresa?nome=CamargoCorrea HTTP/1.1" 405 751
+0:0:0:0:0:0:0:1 - - [23/May/2022:22:20:04 -0300] "GET /gerenciador/formNovaEmpresa.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/May/2022:22:20:12 -0300] "POST /gerenciador/novaEmpresa HTTP/1.1" 200 63
