@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;gerenciador/src/main/webapp/bemvindo.html&apos; to &apos;bem-vindo.html&apos;" description="Rename resource &apos;bemvindo.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/bemvindo.html" name="bem-vindo.html" stamp="1653349700302" updateReferences="true"/>
+</session>
